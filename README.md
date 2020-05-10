@@ -6,4 +6,4 @@
 | Recon:1 | Vulnhub | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Recon-1%20-%20vulnhub.pdf) |
 | CK-00 | Vulnhub | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/CK-00%20-%20vulnhub.pdf) |
 | DevRandom CTF: 1.1 | Vulnhub | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/DevRandom%20CTF%201.1-%20vulnhub.pdf) |
-| Victim: 1 | Vulnhub | View |
+| Victim: 1 | Vulnhub | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Victim-1%20-%20vulnhub.pdf) |
