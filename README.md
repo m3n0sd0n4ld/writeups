@@ -10,3 +10,4 @@
 | Zion: 1 | Vulnhub | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Zion-1%20-%20vulnhub.pdf) |
 | Death Star: 1 | Vulnhub | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Death%20Star-1%20-%20vulnhub.pdf) |
 | Tre: 1 | Vulnhub | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Tre-1%20-%20vulnhub.pdf) |
+| Resoute | HackTheBox | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Resolute%20-%20hackthebox.pdf) |
