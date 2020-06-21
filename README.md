@@ -10,7 +10,7 @@
 | Zion: 1 | Vulnhub | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Zion-1%20-%20vulnhub.pdf) |
 | Death Star: 1 | Vulnhub | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Death%20Star-1%20-%20vulnhub.pdf) |
 | Tre: 1 | Vulnhub | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Tre-1%20-%20vulnhub.pdf) |
-| Resoute | HackTheBox | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Resolute%20-%20hackthebox.pdf) |
+| Resolute | HackTheBox | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Resolute%20-%20hackthebox.pdf) |
 | Seppuku: 1 | Vulnhub | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Seppuku-1%20-%20vulnhub.pdf) |
 | CengBox: 2 | Vulnhub | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/CengBox-2%20-%20vulnhub.pdf) |
 | HA: Natraj | Vulnhub | [View](https://www.hackingarticles.in/ha-natraj-vulnhub-walkthrough/) |
