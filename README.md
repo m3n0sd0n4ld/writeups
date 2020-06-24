@@ -15,3 +15,5 @@
 | CengBox: 2 | Vulnhub | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/CengBox-2%20-%20vulnhub.pdf) |
 | HA: Natraj | Vulnhub | [View](https://www.hackingarticles.in/ha-natraj-vulnhub-walkthrough/) |
 | Monteverde | HackTheBox | [View](https://www.hackingarticles.in/hack-the-box-monteverde-walkthrough/) |
+| Glasgow Smile: 1.1 | Vulnhub | [View](https://www.hackingarticles.in/glasgow-smile-1-1-vulnhub-walkthrough/) |
+| GitRoot: 1 | VulnHub | [View]() |
