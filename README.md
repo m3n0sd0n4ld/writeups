@@ -16,6 +16,7 @@
 | HA: Natraj | Vulnhub | [View](https://www.hackingarticles.in/ha-natraj-vulnhub-walkthrough/) |
 | Monteverde | HackTheBox | [View](https://www.hackingarticles.in/hack-the-box-monteverde-walkthrough/) |
 | Glasgow Smile: 1.1 | Vulnhub | [View](https://www.hackingarticles.in/glasgow-smile-1-1-vulnhub-walkthrough/) |
-| GitRoot: 1 | VulnHub | [View](https://www.hackingarticles.in/gitroot-1-vulnhub-walkthrough/) |
-| eLection: 1 | VulnHub | [View](https://www.hackingarticles.in/election-1-vulnhub-walkthorugh/) |
+| GitRoot: 1 | Vulnhub | [View](https://www.hackingarticles.in/gitroot-1-vulnhub-walkthrough/) |
+| eLection: 1 | Vulnhub | [View](https://www.hackingarticles.in/election-1-vulnhub-walkthorugh/) |
 | Sunset: decoy | Vulnhub | [View](https://www.hackingarticles.in/sunset-decoy-vulnhub-walkthrough/) |
+| CyberSploit: 1 | Vulnhub | [View](https://www.hackingarticles.in/cybersploit-1-vulnhub-walkthrough/) |
