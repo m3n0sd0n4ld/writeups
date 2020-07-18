@@ -22,3 +22,4 @@
 | CyberSploit: 1 | Vulnhub | [View](https://www.hackingarticles.in/cybersploit-1-vulnhub-walkthrough/) |
 | Pwned: 1 | Vulnhub | [is comming] |
 | Sauna | HackTheBox | [is comming] |
+| BlackRose: 1 | Vulnhub | [is comming] |
