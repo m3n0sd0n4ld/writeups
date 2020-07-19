@@ -20,6 +20,6 @@
 | eLection: 1 | Vulnhub | [View](https://www.hackingarticles.in/election-1-vulnhub-walkthorugh/) |
 | Sunset: decoy | Vulnhub | [View](https://www.hackingarticles.in/sunset-decoy-vulnhub-walkthrough/) |
 | CyberSploit: 1 | Vulnhub | [View](https://www.hackingarticles.in/cybersploit-1-vulnhub-walkthrough/) |
-| Pwned: 1 | Vulnhub | [is comming] |
+| Pwned: 1 | Vulnhub | [View](https://www.hackingarticles.in/pwned-1-vulnhub-walkthorugh/) |
 | Sauna | HackTheBox | [is comming] |
-| BlackRose: 1 | Vulnhub | [is comming] |
+| BlackRose: 1 | Vulnhub | [View](https://www.hackingarticles.in/blackrose-1-vulnhub-walkthrough/) |
