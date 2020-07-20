@@ -21,5 +21,5 @@
 | Sunset: decoy | Vulnhub | [View](https://www.hackingarticles.in/sunset-decoy-vulnhub-walkthrough/) |
 | CyberSploit: 1 | Vulnhub | [View](https://www.hackingarticles.in/cybersploit-1-vulnhub-walkthrough/) |
 | Pwned: 1 | Vulnhub | [View](https://www.hackingarticles.in/pwned-1-vulnhub-walkthorugh/) |
-| Sauna | HackTheBox | [is comming] |
+| Sauna | HackTheBox | [View](https://www.hackingarticles.in/hackthebox-sauna-walkthrough/) |
 | BlackRose: 1 | Vulnhub | [View](https://www.hackingarticles.in/blackrose-1-vulnhub-walkthrough/) |
