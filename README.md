@@ -23,3 +23,5 @@
 | Pwned: 1 | Vulnhub | [View](https://www.hackingarticles.in/pwned-1-vulnhub-walkthorugh/) |
 | Sauna | HackTheBox | [View](https://www.hackingarticles.in/hackthebox-sauna-walkthrough/) |
 | BlackRose: 1 | Vulnhub | [View](https://www.hackingarticles.in/blackrose-1-vulnhub-walkthrough/) |
+| GreenOptic: 1 | Vulnhub | [View](https://www.hackingarticles.in/greenoptic-1-vulnhub-walkthrough/)
+| Presidential: 1 | Vulnhub | [View](https://www.hackingarticles.in/presidential-1-vulnhub-walkthrough/) |
