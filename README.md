@@ -25,3 +25,10 @@
 | BlackRose: 1 | Vulnhub | [View](https://www.hackingarticles.in/blackrose-1-vulnhub-walkthrough/) |
 | GreenOptic: 1 | Vulnhub | [View](https://www.hackingarticles.in/greenoptic-1-vulnhub-walkthrough/)
 | Presidential: 1 | Vulnhub | [View](https://www.hackingarticles.in/presidential-1-vulnhub-walkthrough/) |
+| Tomato: 1 | Vulnhub | [View](https://www.hackingarticles.in/tomato-1-vulnhub-walkthrough/) |
+| Sunset: Midninght | Vulnhub | [View](https://www.hackingarticles.in/sunset-midnight-vulnhub-walkthrough/) |
+| Sunset: Twilight | Vulnhub | [View](https://www.hackingarticles.in/sunset-twilight-vulnhub-walkthrough/) |
+| Chili: 1 | Vulnhub | [View](https://www.hackingarticles.in/chili-1-vulnhub-walkthrough/) |
+| Cewlkid: 1 | Vulnhub | [View](https://www.hackingarticles.in/cewlkid-1-vulnhub-walkthrough/) |
+| Durian: 1 | Vulnhub | [View](https://www.hackingarticles.in/durian-1-vulnhub-walkthrough/) |
+| Relevant: 1 | Vulnhub | [View](#) |
