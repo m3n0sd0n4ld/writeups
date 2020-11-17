@@ -38,3 +38,6 @@
 | KB-Vulns: 3 | vulnhub | [View](https://www.hackingarticles.in/kb-vuln-3-vulnhub-walkthrough/) |
 | Relevant | TryHackMe | [View](https://www.hackingarticles.in/relevant-tryhackme-walkthrough/) |
 | Startup | TryHackMe | [View](https://www.hackingarticles.in/startup-tryhackme-walkthrough/) |
+| Internal | TryHackMe | [View](https://www.hackingarticles.in/internal-tryhackme-walkthrough/) |
+| Revenge | TryHackMe | [View](https://www.hackingarticles.in/revenge-tryhackme-walkthrough/) |
+| 0day | TryHackMe | [View](https://www.hackingarticles.in/0day-tryhackme-walkthrough/) |
