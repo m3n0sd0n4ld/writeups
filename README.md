@@ -41,3 +41,4 @@
 | Internal | TryHackMe | [View](https://www.hackingarticles.in/internal-tryhackme-walkthrough/) |
 | Revenge | TryHackMe | [View](https://www.hackingarticles.in/revenge-tryhackme-walkthrough/) |
 | 0day | TryHackMe | [View](https://www.hackingarticles.in/0day-tryhackme-walkthrough/) |
+| Ghizer | TryHackMe | [View](https://www.hackingarticles.in/ghizer-tryhackme-walkthrough/) |
