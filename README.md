@@ -42,3 +42,4 @@
 | Revenge | TryHackMe | [View](https://www.hackingarticles.in/revenge-tryhackme-walkthrough/) |
 | 0day | TryHackMe | [View](https://www.hackingarticles.in/0day-tryhackme-walkthrough/) |
 | Ghizer | TryHackMe | [View](https://www.hackingarticles.in/ghizer-tryhackme-walkthrough/) |
+| Iron Corp | TryHackMe | [View](https://www.hackingarticles.in/iron-corp-tryhackme-walkthrough/) |
