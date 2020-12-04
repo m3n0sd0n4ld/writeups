@@ -43,3 +43,4 @@
 | 0day | TryHackMe | [View](https://www.hackingarticles.in/0day-tryhackme-walkthrough/) |
 | Ghizer | TryHackMe | [View](https://www.hackingarticles.in/ghizer-tryhackme-walkthrough/) |
 | Iron Corp | TryHackMe | [View](https://www.hackingarticles.in/iron-corp-tryhackme-walkthrough/) |
+| Cybox: 1 | Vulnhub | [View](https://www.hackingarticles.in/cybox-1-vulnhub-walkthrough/) |
