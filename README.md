@@ -35,7 +35,7 @@
 | Powergrid: 1.0.1 | Vulnhub | [View](https://www.hackingarticles.in/powergrid-1-0-1-vulnhub-walkthrough/) |
 | Insanity: 1 | Vulnhub | [View](https://www.hackingarticles.in/insanity-1-vulnhub-walkthrough/) |
 | Tempus Fugit: 3 | Vulnhub | [View](https://www.hackingarticles.in/tempus-fugit-3-vulnhub-walkthrough/) |
-| KB-Vulns: 3 | vulnhub | [View](https://www.hackingarticles.in/kb-vuln-3-vulnhub-walkthrough/) |
+| KB-Vulns: 3 | Vulnhub | [View](https://www.hackingarticles.in/kb-vuln-3-vulnhub-walkthrough/) |
 | Relevant | TryHackMe | [View](https://www.hackingarticles.in/relevant-tryhackme-walkthrough/) |
 | Startup | TryHackMe | [View](https://www.hackingarticles.in/startup-tryhackme-walkthrough/) |
 | Internal | TryHackMe | [View](https://www.hackingarticles.in/internal-tryhackme-walkthrough/) |
@@ -44,3 +44,4 @@
 | Ghizer | TryHackMe | [View](https://www.hackingarticles.in/ghizer-tryhackme-walkthrough/) |
 | Iron Corp | TryHackMe | [View](https://www.hackingarticles.in/iron-corp-tryhackme-walkthrough/) |
 | Cybox: 1 | Vulnhub | [View](https://www.hackingarticles.in/cybox-1-vulnhub-walkthrough/) |
+| Conceal | HackTheBox | [View](https://www.hackingarticles.in/conceal-hackthebox-walkthrough/) |
