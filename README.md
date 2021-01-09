@@ -45,3 +45,4 @@
 | Iron Corp | TryHackMe | [View](https://www.hackingarticles.in/iron-corp-tryhackme-walkthrough/) |
 | Cybox: 1 | Vulnhub | [View](https://www.hackingarticles.in/cybox-1-vulnhub-walkthrough/) |
 | Conceal | HackTheBox | [View](https://www.hackingarticles.in/conceal-hackthebox-walkthrough/) |
+| Omni | HackTheBox | [View](https://www.hackingarticles.in/omni-hackthebox-walkthrough/) |
