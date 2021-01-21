@@ -47,3 +47,5 @@
 | Conceal | HackTheBox | [View](https://www.hackingarticles.in/conceal-hackthebox-walkthrough/) |
 | Omni | HackTheBox | [View](https://www.hackingarticles.in/omni-hackthebox-walkthrough/) |
 | Mango | HackTheBox | [View](https://www.hackingarticles.in/mango-hackthebox-walkthrough/) |
+| Bastard | HackTheBox | [View](https://www.hackingarticles.in/bastard-hackthebox-walkthrough/) |
+| Forest | HackTheBox | [View](https://www.hackingarticles.in/forest-hackthebox-walkthrough/) |
